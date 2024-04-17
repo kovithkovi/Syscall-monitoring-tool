@@ -57,7 +57,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 
     This tool utilizes system call interception techniques.
-    Special thanks to [Your Name] for their contributions to this project.
+    Special thanks to Bharath for their contributions to this project.
 
 ## Contact
 
