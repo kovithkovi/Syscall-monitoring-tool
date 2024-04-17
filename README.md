@@ -30,25 +30,25 @@ Features
     Monitor system call activity in real-time or review logged data after monitoring sessions.
 
 ## Examples
-Basic Usage
+## Basic Usage
 
-bash
+### bash
 
 ./monitor
 
-Monitor Specific Process
+### Monitor Specific Process
 
 bash
 
 ./monitor -p firefox
 
-Log System Call Activity
+### Log System Call Activity
 
 bash
 
 ./monitor -l system_calls.log
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your proposed changes.
 License
@@ -59,6 +59,6 @@ Acknowledgments
     This tool utilizes system call interception techniques.
     Special thanks to [Your Name] for their contributions to this project.
 
-Contact
+## Contact
 
 For questions or feedback, please contact [Your Name] at [your@email.com]
